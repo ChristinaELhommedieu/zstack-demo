@@ -24,7 +24,7 @@ struct ContentView: View {
                     Spacer()
                     Text("lyrical wonder")
                 }
-                Text("blurb")
+                Text("blurry")
             }
         }
     }
